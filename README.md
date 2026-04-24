@@ -36,6 +36,8 @@ Histórico de e-mails enviados
 Salvamento em banco de dados (SQLite)
 Versão web com Flask
 Interface mais moderna (CustomTkinter / PyQt)
+
+
 👨‍💻 Autor
 
 Desenvolvido por Adriano Lucas
