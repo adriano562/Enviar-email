@@ -1,4 +1,4 @@
-istema em Python com interface gráfica (Tkinter) que permite enviar e-mails automaticamente utilizando o servidor SMTP do Gmail.
+Sistema em Python com interface gráfica (Tkinter) que permite enviar e-mails automaticamente utilizando o servidor SMTP do Gmail.
 
 ---
 
